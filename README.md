@@ -14,5 +14,8 @@ http-server -g -o
 ```
 
 View at: http://127.0.0.1:8080/index.html
+  
+  
 
+### Credit:
 repo: https://github.com/rizanw/grarkom_tugas1
