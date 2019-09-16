@@ -17,5 +17,7 @@ View at: http://127.0.0.1:8080/index.html
   
   
 
-### Credit:
+#### Credit:
 repo: https://github.com/rizanw/grarkom_tugas1
+#### References:
+- https://github.com/davidwparker/programmingtil-webgl
